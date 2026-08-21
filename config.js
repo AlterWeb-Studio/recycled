@@ -11,18 +11,18 @@ const CONFIG = {
     SLOGAN:         "Donde Colombia y España se unen en sabor.",
     TELEFON:        "+9344008645",
     MOBIL:          "642 32 55 82",
-    EMAIL:          "oleyaji@altervector.com",
+    EMAIL:          "oleyaji@alterwebstudio.com",
     ADRECA:         "Plaça Josep Anselm Clavé, 6. 08720 Vilafranca del Penedés, Barcelona",
     INSTAGRAM:      "https://www.instagram.com/oleyajivilafranca",
     FACEBOOK:       "https://www.facebook.com/",
-    EMAIL_SUPORT:   "suport@altervector.com",
+    EMAIL_SUPORT:   "info@alterwebstudio.com",
 
 
     // 2. RUTES (en local, tot és relatiu)
     REPO_URL:       "https://altervector.github.io/oleyaji/",
     BASE_URL:       "./",
     BASE_WORKER:    "https://oleyaji.altervector.workers.dev",
-    URL_OFICIAL:    "https://oleyaji.altervector.com",
+    URL_OFICIAL:    "https://oleyaji.alterwebstudio.com",
     ASSETS:         "https://avsets.pages.dev/",
     URL_MAPS:       "https://www.google.com/maps/search/?api=1&query=Ole+y+Aji+Vilafranca",
     URL_RESSENYES:  "https://search.google.com/local/writereview?placeid=ChIJ0x2mkSp5pBIRAbvYW6nhpFo",
