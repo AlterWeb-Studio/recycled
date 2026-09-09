@@ -6,14 +6,14 @@
 const CONFIG = {
 
     // 1. NEGOCI
-    NOM:            "Olé y Ají",
+    NOM:            "El teu Nom o Logo",
     LOGO:           "logo/logoOA.png",
     SLOGAN:         "Donde Colombia y España se unen en sabor.",
-    TELEFON:        "+9344008645",
-    MOBIL:          "642 32 55 82",
-    EMAIL:          "oleyaji@alterwebstudio.com",
-    ADRECA:         "Plaça Josep Anselm Clavé, 6. 08720 Vilafranca del Penedés, Barcelona",
-    INSTAGRAM:      "https://www.instagram.com/oleyajivilafranca",
+    TELEFON:        "711510676",
+    MOBIL:          "711 51 06 76",
+    EMAIL:          "info@alterwebstudio.com",
+    ADRECA:         "Carrer de Faraday, 145, 08224 Terrassa, Barcelona",
+    INSTAGRAM:      "https://www.instagram.com/alterwebstudio",
     FACEBOOK:       "https://www.facebook.com/",
     EMAIL_SUPORT:   "info@alterwebstudio.com",
 
@@ -24,8 +24,8 @@ const CONFIG = {
     BASE_WORKER:    "https://oleyaji.altervector.workers.dev",
     URL_OFICIAL:    "https://oleyaji.alterwebstudio.com",
     ASSETS:         "https://avsets.pages.dev/",
-    URL_MAPS:       "https://www.google.com/maps/search/?api=1&query=Ole+y+Aji+Vilafranca",
-    URL_RESSENYES:  "https://search.google.com/local/writereview?placeid=ChIJ0x2mkSp5pBIRAbvYW6nhpFo",
+    URL_MAPS:       "https://www.google.com/maps/search/?api=1&query=alterweb+studio",
+    URL_RESSENYES:  "https://g.page/r/Cawh-z-rLNAYEBM/review",
 
     // 2.2 RUTES Imatges
     //BACKGROUND:      "Canviar en el css del .html",
@@ -34,7 +34,7 @@ const CONFIG = {
     BLOC2:           "images/oleyaji/tapes.jpg",
     BLOC3:           "images/oleyaji/postres.jpg",
     BLOC4:           "images/oleyaji/begudes.png",
-    QR:              "qr/qr-oleyaji.png",
+    QR:              "qr/r-oleyaji.png",
 
     // 2.3 RUTES Textos
     HERO_BOTO:       "Descúbrenos",
