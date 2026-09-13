@@ -19,7 +19,7 @@ const CONFIG = {
 
 
     // 2. RUTES (en local, tot és relatiu)
-    REPO_URL:       "https://altervector.github.io/oleyaji/",
+    REPO_URL:       "https://alterweb-studio.github.io/oleyaji/",
     BASE_URL:       "./",
     BASE_WORKER:    "https://oleyaji.altervector.workers.dev",
     URL_OFICIAL:    "https://oleyaji.alterwebstudio.com",
