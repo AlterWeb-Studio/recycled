@@ -61,7 +61,7 @@ const CONFIG = {
 
 
     // 3. SEGURETAT (de moment buit, s'activa quan pujem a producció)
-    SITIOS_SEGUROS:  ["alterwebstudio.com", "altervector.com", "pages.dev", "altervector.github.io", "localhost", "127.0.0.1"],
+    SITIOS_SEGUROS:  ["alterwebstudio.com","pages.dev", "alterweb-studio.github.io", "localhost", "127.0.0.1"],
 
 
     // 4. COLORS (per si cal canviar-los des de JS)
