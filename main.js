@@ -149,7 +149,7 @@ logo.addEventListener('contextmenu', (e) => e.preventDefault());
                 <section class="seccio" id="qui-som">
                     <h2 class="seccio-titol">${CONFIG.QUI_SOM}</h2>
                     <p class="seccio-text">
-                        ${CONFIG.QUI_DESC}</p>
+                        ${CONFIG.QUI_SOM_DESC}</p>
                 </section>
 
                 <hr class="separador">
